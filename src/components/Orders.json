@@ -1,0 +1,274 @@
+{
+  "Orders": [
+    {
+      "id": 1,
+      "kategori": "gömlek",
+      "fiyat": 100,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-15",
+      "musteriAdi": "Ahmet Yılmaz"
+    },
+    {
+      "id": 2,
+      "kategori": "etek",
+      "fiyat": 50,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-16",
+      "musteriAdi": "Ayşe Demir"
+    },
+    {
+      "id": 3,
+      "kategori": "ceket",
+      "fiyat": 159,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-17",
+      "musteriAdi": "Mehmet Kaya"
+    },
+    {
+      "id": 4,
+      "kategori": "palto",
+      "fiyat": 250,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-18",
+      "musteriAdi": "Fatma Çelik"
+    },
+    {
+      "id": 5,
+      "kategori": "etek",
+      "fiyat": 50,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-19",
+      "musteriAdi": "Ali Koç"
+    },
+    {
+      "id": 6,
+      "kategori": "etek",
+      "fiyat": 75,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-20",
+      "musteriAdi": "Zeynep Arslan"
+    },
+    {
+      "id": 7,
+      "kategori": "etek",
+      "fiyat": 50,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-21",
+      "musteriAdi": "Ahmet Yılmaz"
+    },
+    {
+      "id": 8,
+      "kategori": "etek",
+      "fiyat": 50,
+      "siparisDurumu": false,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-07-22",
+      "musteriAdi": "Ayşe Demir"
+    },
+    {
+      "id": 9,
+      "kategori": "yelek",
+      "fiyat": 25,
+      "siparisDurumu": true,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-07-23",
+      "musteriAdi": "Mehmet Kaya"
+    },
+    {
+      "id": 10,
+      "kategori": "takım elbise",
+      "fiyat": 550,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-24",
+      "musteriAdi": "Fatma Çelik"
+    },
+    {
+      "id": 11,
+      "kategori": "gömlek",
+      "fiyat": 120,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-25",
+      "musteriAdi": "Ali Koç"
+    },
+    {
+      "id": 12,
+      "kategori": "pantolon",
+      "fiyat": 80,
+      "siparisDurumu": true,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-07-26",
+      "musteriAdi": "Zeynep Arslan"
+    },
+    {
+      "id": 13,
+      "kategori": "şort",
+      "fiyat": 40,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-27",
+      "musteriAdi": "Ahmet Yılmaz"
+    },
+    {
+      "id": 14,
+      "kategori": "ceket",
+      "fiyat": 200,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-28",
+      "musteriAdi": "Ayşe Demir"
+    },
+    {
+      "id": 15,
+      "kategori": "palto",
+      "fiyat": 300,
+      "siparisDurumu": false,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-07-29",
+      "musteriAdi": "Mehmet Kaya"
+    },
+    {
+      "id": 16,
+      "kategori": "gömlek",
+      "fiyat": 90,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-30",
+      "musteriAdi": "Fatma Çelik"
+    },
+    {
+      "id": 17,
+      "kategori": "etek",
+      "fiyat": 55,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-07-31",
+      "musteriAdi": "Ali Koç"
+    },
+    {
+      "id": 18,
+      "kategori": "takım elbise",
+      "fiyat": 600,
+      "siparisDurumu": true,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-08-01",
+      "musteriAdi": "Zeynep Arslan"
+    },
+    {
+      "id": 19,
+      "kategori": "gömlek",
+      "fiyat": 110,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-02",
+      "musteriAdi": "Ahmet Yılmaz"
+    },
+    {
+      "id": 20,
+      "kategori": "yelek",
+      "fiyat": 35,
+      "siparisDurumu": true,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-08-03",
+      "musteriAdi": "Ayşe Demir"
+    },
+    {
+      "id": 21,
+      "kategori": "ceket",
+      "fiyat": 180,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-04",
+      "musteriAdi": "Mehmet Kaya"
+    },
+    {
+      "id": 22,
+      "kategori": "palto",
+      "fiyat": 280,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-05",
+      "musteriAdi": "Fatma Çelik"
+    },
+    {
+      "id": 23,
+      "kategori": "gömlek",
+      "fiyat": 95,
+      "siparisDurumu": true,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-08-06",
+      "musteriAdi": "Ali Koç"
+    },
+    {
+      "id": 24,
+      "kategori": "etek",
+      "fiyat": 60,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-07",
+      "musteriAdi": "Zeynep Arslan"
+    },
+    {
+      "id": 25,
+      "kategori": "takım elbise",
+      "fiyat": 520,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-08",
+      "musteriAdi": "Ahmet Yılmaz"
+    },
+    {
+      "id": 26,
+      "kategori": "şort",
+      "fiyat": 45,
+      "siparisDurumu": false,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-08-09",
+      "musteriAdi": "Ayşe Demir"
+    },
+    {
+      "id": 27,
+      "kategori": "pantolon",
+      "fiyat": 75,
+      "siparisDurumu": true,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-10",
+      "musteriAdi": "Mehmet Kaya"
+    },
+    {
+      "id": 28,
+      "kategori": "ceket",
+      "fiyat": 190,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-11",
+      "musteriAdi": "Fatma Çelik"
+    },
+    {
+      "id": 29,
+      "kategori": "palto",
+      "fiyat": 270,
+      "siparisDurumu": true,
+      "teslimAldi": true,
+      "siparisTarihi": "2024-08-12",
+      "musteriAdi": "Ali Koç"
+    },
+    {
+      "id": 30,
+      "kategori": "gömlek",
+      "fiyat": 105,
+      "siparisDurumu": false,
+      "teslimAldi": false,
+      "siparisTarihi": "2024-08-13",
+      "musteriAdi": "Zeynep Arslan"
+    }
+  ]
+}

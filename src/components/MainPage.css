@@ -1,0 +1,42 @@
+.container{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url('../assets/backgroundimage.jpg'); /* Ensure this path is correct relative to the CSS file */
+    background-size: cover; /* Resmin kapsama oranını ayarlama */
+    background-position: center; /* Resmi ortalama */
+    background-repeat: no-repeat; /* Resmin tekrar etmemesi */
+}
+.section{
+    width: 25%;
+    height: 30vh;
+    background-color: #EEEEEE;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vh;
+    font-family: "poppins",monospace;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    text-align: center;
+}
+.section li{
+    list-style-type: none;
+    color: black;
+}
+.section:hover{
+    transform: translateY(-10px);
+}
+@media (max-width:720px) {
+    .container{
+        flex-direction: column;
+    }
+    .section{
+        width: 90%;
+    }
+}

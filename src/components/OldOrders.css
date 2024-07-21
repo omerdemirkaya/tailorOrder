@@ -1,0 +1,83 @@
+.old-orders-container{
+    width: 100%;
+    height: 100vh;
+    background-color: #EEEEEE;
+}
+.old-orders-header{
+    width: 100%;
+    height: 10vh;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vh;
+    font-family: "poppins",monospace;
+}
+.old-orders-list-container{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.old-orders-list{
+    width: 50%;
+    height: 70vh;
+    overflow-y: auto;
+    border: 1px solid black;
+}
+.old-orders-item{
+    width: 100%;
+    height: 15%;
+    background-color: #F6F5F2;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 0.5px solid black;
+}
+.old-orders-item-id{
+    width: 15%;
+    height: 100%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.old-orders-item-kategori, .old-orders-item-price{
+    width: 25%;
+    height: 100%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+    font-size: 3vh;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    text-align: center;
+}
+.old-orders-item-time, .old-orders-item-customer{
+    width: 20%;
+    height: 100%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+    font-size: 2vh;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    text-align: center;
+}
+.old-orders-item-customer{
+    overflow: hidden;
+}
+@media (max-width:768px) {
+    .old-orders-list{
+        width: 90%;
+    }
+    .old-orders-item-customer, .old-orders-item-kategori, .old-orders-item-price, .old-orders-item-time{
+        font-size: 2vh;
+        overflow: hidden;
+    }
+    .old-orders-header{
+        text-align: center;
+    }
+}
